@@ -698,10 +698,10 @@ The project will progress through approved phase gates:
 
 **Current approval status:** Awaiting project-owner sign-off.
 
-| Approval Role   | Name                                     | Status                          |
-|-----------------|-----------------------------------------------------------------------------
-| Project Owner   | Abhi Udnoor                              | Pending                         |
-| Business Owner  | Simulated Head of Marketplace Operations | Portfolio-case-study assumption |
+| Approval Role | Name | Status |
+|---|---|---|
+| Project Owner | Abhi Udnoor | Pending |
+| Business Owner | Simulated Head of Marketplace Operations | Portfolio-case-study assumption |
 
 ---
 
